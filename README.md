@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 🐱
+
+I am currentrly a second year student in Moscow Institute of Physics and Technology.
+
+Here are some projects I've implemented so far:
+- [Markov interpreter](https://github.com/NewLul/markov-interpreter) - interpreter for [markov algorithms](https://en.wikipedia.org/wiki/Markov_algorithm) on python. Project is inspired by course of Mathematical Logic and Algorithm Theory (actualy was an additional task).
+- [TCP protocol] - basic implementation of tcp-like protocol that can resist basic problems like packet losts, duplications and reorderings.
+- [Automaton](https://github.com/NewLul/automaton) - implementation of basic algorithms of [automata theory](https://en.wikipedia.org/wiki/Automata_theory). Convert NFA to DFA. Minimize DFA. Convert NFA to regular expression. Find complement of regular language.
 
 <!--
 **NewLul/NewLul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
