@@ -1,6 +1,6 @@
 ## Hi there 🐱
 
-I am currentrly a thrid year student in Moscow Institute of Physics and Technology.
+I am currentrly the thrid year student in Moscow Institute of Physics and Technology.
 
 Here are some projects I've implemented so far:
 - [Markov interpreter](https://github.com/NewLul/markov-interpreter) - interpreter for [markov algorithms](https://en.wikipedia.org/wiki/Markov_algorithm) on python. Project is inspired by course of Mathematical Logic and Algorithm Theory (actualy was an additional task).
